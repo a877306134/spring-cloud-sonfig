@@ -1,2 +1,2 @@
 config:
-    info:   this is test message
+    info:   “this is test message”
